@@ -1,6 +1,6 @@
 {
   "name": "game-of-life-logic",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Logic for Conway's Game of Life. It uses a looping-matrix so that entities loop from edge to edge.",
   "author": "David da Silva <dasilvacontin@gmail.com>",
   "license": "MIT",
